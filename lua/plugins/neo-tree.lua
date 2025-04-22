@@ -10,7 +10,22 @@ return {
   lazy = false, -- neo-tree will lazily load itself
   ---@module "neo-tree"
   ---@type neotree.Config?
-  opts = {
-    -- fill any relevant options here
-  },
+    config = function()
+        require("neo-tree").setup({
+      filesystem={
+          filtred_items={
+            visible = true,
+            hide_dotfiles = false,
+            hide_gitignored = false,
+            never_show = {
+                ".git",
+                ".mypy_cache",
+                ".ruff_cache",
+                ".pytest_cache",
+                ".DS_Store",
+            },
+          },
+      },     
+  })
+  end
 }
