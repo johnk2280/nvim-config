@@ -2,7 +2,7 @@ return {
     {
         'neovim/nvim-lspconfig',
         config = function()
-            -- vim.lsp.enable('pyright')
+            vim.lsp.enable('pyright')
 vim.lsp.config('lua_ls', {
   on_init = function(client)
     if client.workspace_folders then
