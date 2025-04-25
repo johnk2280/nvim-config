@@ -1,7 +1,7 @@
 return {
   {
     "stevearc/conform.nvim",
-    event = 'BufWritePre', 
+    event = "BufWritePre",
     opts = require "configs.conform",
   },
 
@@ -17,10 +17,10 @@ return {
   -- { import = "nvchad.blink.lazyspec" },
 
   {
-  	"nvim-treesitter/nvim-treesitter",
-  	opts = {
-  		ensure_installed = {
-  			"vim", 
+    "nvim-treesitter/nvim-treesitter",
+    opts = {
+      ensure_installed = {
+        "vim",
         "lua",
         "vimdoc",
         "html",
@@ -50,7 +50,34 @@ return {
         "typescript",
         "vue",
         "yaml",
-  		},
-  	},
+      },
+    },
+  },
+  {
+    "williamboman/mason.nvim",
+    -- cmd = { "Mason", "MasonInstall", "MasonUpdate" },
+    -- opts = function()
+    --   return require "nvchad.configs.mason"
+    -- end,
+    ensure_installed = {
+      "css-lsp",
+      "debugpy",
+      "docker-compose-language-server",
+      "dockerfile-language-server",
+      "eslint_d",
+      "html-lsp",
+      "js-debug-adapter",
+      "lua-language-server",
+      "luacheck",
+      "postgrestools",
+      "prettierd",
+      "pyright",
+      "ruff",
+      "rust-analyzer",
+      "sql-formatter",
+      "stylua",
+      "typescript-language-server",
+      "yaml-language-server",
+    },
   },
 }
