@@ -6,45 +6,23 @@
 local M = {}
 
 M.base46 = {
-  theme = "darcula-dark",
+    theme = "darcula-dark",
 
-  hl_override = {
-    Comment = { italic = true },
-    ["@comment"] = { italic = true },
-  },
+    hl_override = {
+        Comment = { italic = true },
+        ["@comment"] = { italic = true },
+    },
 }
 
 -- M.nvdash = { load_on_startup = true }
 M.ui = {
-  -- tabufline = {
-  -- lazyload = false
-  -- },
+    -- tabufline = {
+    -- lazyload = false
+    -- },
 
-  statusline = {
-    theme = "vscode_colored",
-  },
+    statusline = {
+        theme = "vscode_colored",
+    },
 }
-
--- M.mason.pkgs = {
---   "css-lsp",
---   "debugpy",
---   "docker-compose-language-server",
---   "dockerfile-language-server",
---   "eslint_d",
---   "html-lsp",
---   "json-lsp",
---   "js-debug-adapter",
---   "lua-language-server",
---   "luacheck",
---   "postgrestools",
---   "prettierd",
---   "pyright",
---   "ruff",
---   "rust-analyzer",
---   "sql-formatter",
---   "stylua",
---   "typescript-language-server",
---   "yaml-language-server",
--- }
 
 return M
