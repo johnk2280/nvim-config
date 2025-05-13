@@ -13,7 +13,21 @@ local servers = {
     ts_ls = {},
     ruff = {},
     rust_analyzer = {},
-    pyright = {},
+    pyright = {
+        settings = {
+            python = {
+                pythonPath = ".venv/bin/python",
+                venvPath = ".venv/bin/python",
+                analysis = {
+                    autoImportCompletions = true,
+                    autoSearchPaths = true,
+                    diagnosticMode = "workspace",
+                    typeCheckingMode = "strict",
+                    useLibraryCodeForTypes = true,
+                },
+            },
+        },
+    },
 }
 
 for name, opts in pairs(servers) do
