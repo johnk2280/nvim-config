@@ -74,7 +74,19 @@ return {
 
             filters = {
                 dotfiles = false,
-                custom = { "^.git$" },
+                custom = {
+                    "^.git$",
+                    "^.DS_Store$",
+                    "^.idea$",
+                },
+                exclude = {
+                    ".venv",
+                    "node_modules",
+                    ".python-version",
+                    ".env",
+                    "logs",
+                    "temp",
+                },
             },
 
             git = {
@@ -99,7 +111,7 @@ return {
             --     show_on_open_dirs = false,
             -- },
             renderer = {
-                hidden_display = "all",
+                hidden_display = "none",
                 indent_markers = {
                     enable = true,
                     icons = {
