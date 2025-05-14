@@ -93,6 +93,11 @@ return {
                     error = "",
                 },
             },
+            -- modified = {
+            --     enable = true,
+            --     show_on_dirs = true,
+            --     show_on_open_dirs = false,
+            -- },
             renderer = {
                 hidden_display = "all",
                 indent_markers = {
