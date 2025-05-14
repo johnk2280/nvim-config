@@ -154,7 +154,13 @@ return {
             },
 
             filesystem_watchers = {
-                ignore_dirs = { "node_modules" },
+                ignore_dirs = {
+                    "/node_modules",
+                    "/.venv",
+                    "/temp",
+                    "/build",
+                    "/dist",
+                },
             },
         }
 
