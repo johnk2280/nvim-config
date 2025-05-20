@@ -34,5 +34,25 @@ return {
             "<cmd>Trouble qflist toggle<cr>",
             desc = "Quickfix List (Trouble)",
         },
+        {
+            "<leader>qD",
+            "<cmd>Trouble lsp_declarations toggle<cr>",
+            desc = "Go to declaration",
+        },
+        {
+            "<leader>qd",
+            "<cmd>Trouble lsp_definitions toggle<cr>",
+            desc = "Go to definition",
+        },
+        {
+            "<leader>qr",
+            "<cmd>Trouble lsp_references toggle focus=true<cr>",
+            desc = "LSP referencies",
+        },
+        {
+            "<leader>qi",
+            "<cmd>Trouble lsp_implementations toggle<cr>",
+            desc = "LSP implementations",
+        },
     },
 }
