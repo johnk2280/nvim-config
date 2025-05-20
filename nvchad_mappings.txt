@@ -1,0 +1,1072 @@
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
+   trouble.lua  󰅖                                                                                                                                                                              󰅖
+
+
+
+                                                                                █▀▀ █░█ █▀▀ ▄▀█ ▀█▀ █▀ █░█ █▀▀ █▀▀ ▀█▀
+                                                                                █▄▄ █▀█ ██▄ █▀█ ░█░ ▄█ █▀█ ██▄ ██▄ ░█░
+
+
+
+                                               Add                                                                                         Nvimtree
+
+    Empty line above cursor                                                                [       Toggle window                                                                       <C-N>
+
+    Empty line below cursor                                                                ]
+                                                                                                                                           :help (i)
+
+                                           Toggle (v)                                              I_CTRL-W-default                                                                    <C-W>
+
+    Comment                                                                      <leader> + /      I_CTRL-U-default                                                                    <C-U>
+
+
+                                            Quickfix                                                                                         Jump
+
+    List (Trouble)                                                              <leader> + xQ      To the first diagnostic in the current buffer                                          [D
+
+                                                                                                   To the previous diagnostic in the current buffer                                       [d
+                                             Toggle
+                                                                                                   To the last diagnostic in the current buffer                                           ]D
+    NvimTree                                                                     <leader> + e
+                                                                                                   To the next diagnostic in the current buffer                                           ]d
+    Comment                                                                      <leader> + /
+
+    Nvcheatsheet                                                                <leader> + ch                                              Telescope
+
+    Relative number                                                             <leader> + rn      Find all files                                                              <leader> + fa
+
+    Line number                                                                  <leader> + n      Find files                                                                  <leader> + ff
+
+    Comment line                                                                          gcc      Nvchad themes                                                               <leader> + th
+
+    Comment                                                                                gc      Pick hidden term                                                            <leader> + pt
+
+                                                                                                   Git status                                                                  <leader> + gt
+                                           Toggle (x)
+                                                                                                   Git commits                                                                 <leader> + cm
+    Comment                                                                                gc
+                                                                                                   Find in current buffer                                                      <leader> + fz
+
+                                             Switch                                                Find oldfiles                                                               <leader> + fo
+
+    Window up                                                                           <C-K>      Find marks                                                                  <leader> + ma
+
+    Window down                                                                         <C-J>      Help page                                                                   <leader> + fh
+
+    Window left                                                                         <C-H>      Find buffers                                                                <leader> + fb
+
+    Window right                                                                        <C-L>      Live grep                                                                   <leader> + fw
+
+
+                                             Buffer                                                                                         General
+
+    Goto next                                                                           <Tab>      Clear highlights                                                                    <Esc>
+
+    Close                                                                        <leader> + x      Format file                                                                 <leader> + fm
+
+    New                                                                          <leader> + b      Copy whole file                                                                     <C-C>
+
+    Diagnostics (Trouble)                                                       <leader> + xX      Save file                                                                           <C-S>
+
+    Goto prev                                                                         <S-Tab>
+  NORMAL  󰈚 Empty                                                                                                                                                             Ln 1, Col 1  󰉖 nvim
