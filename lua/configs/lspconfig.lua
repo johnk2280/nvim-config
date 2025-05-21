@@ -5,7 +5,7 @@ local servers = {
 
     css_variables = require "configs.lsp.css_variables",
 
-    cssls = {},
+    cssls = require "configs.lsp.cssls",
 
     cssmodules_ls = {},
 
