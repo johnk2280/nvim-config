@@ -3,7 +3,7 @@ require("nvchad.configs.lspconfig").defaults()
 local servers = {
     html = {},
 
-    css_variables = {},
+    css_variables = require "configs.lsp.css_variables",
 
     cssls = {},
 
