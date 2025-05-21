@@ -27,21 +27,7 @@ local servers = {
 
     ruff = {},
 
-    pyright = {
-        settings = {
-            python = {
-                pythonPath = ".venv/bin/python",
-                venvPath = ".venv/bin/python",
-                analysis = {
-                    autoImportCompletions = true,
-                    autoSearchPaths = true,
-                    diagnosticMode = "workspace",
-                    typeCheckingMode = "strict",
-                    useLibraryCodeForTypes = true,
-                },
-            },
-        },
-    },
+    pyright = require "configs.lsp.pyright",
 }
 
 for name, opts in pairs(servers) do
