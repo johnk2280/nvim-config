@@ -12,3 +12,6 @@ map("i", "jj", "<ESC>")
 -- Terminal
 map("t", "jj", "<C-\\><C-N>", { desc = "terminal escape terminal mode" })
 map("t", "<ESC>", "<C-\\><C-N>", { desc = "terminal escape terminal mode" })
+
+-- Code Actions
+map({ "n", "v" }, "<leader>la", "<cmd>lua vim.lsp.buf.code_action()<CR>", { desc = "Code Actions" })
