@@ -7,7 +7,7 @@ local servers = {
 
     cssls = require "configs.lsp.cssls",
 
-    cssmodules_ls = {},
+    cssmodules_ls = require "configs.lsp.cssmodules_ls",
 
     dockerls = {},
 
