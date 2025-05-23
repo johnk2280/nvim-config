@@ -73,20 +73,69 @@ return {
                     -- # eradicate - removes commented-out code from Python files
                     -- # https://docs.astral.sh/ruff/rules/#eradicate-era
                     "ERA",
+
                     -- # FastAPI rules
                     -- # https://docs.astral.sh/ruff/rules/#fastapi-fast
                     "FAST",
+
+                    -- flake8-annotations
+                    -- https://docs.astral.sh/ruff/rules/#flake8-annotations-ann
+                    "ANN",
+
+                    -- flake8-async
+                    -- https://docs.astral.sh/ruff/rules/#flake8-async-async
+                    "ASYNC",
+
+                    -- flake8-bandid
+                    -- https://docs.astral.sh/ruff/rules/#flake8-bandit-s
+                    "S",
+
                     -- # A flake8 extension that checks for blind,
                     -- # catch-all except: and except Exception: statements.
                     -- # https://pypi.org/project/flake8-blind-except/
                     "BLE",
+
+                    -- flake8-bugbear
+                    -- https://docs.astral.sh/ruff/rules/#flake8-bugbear-b
+                    "B",
+
+                    -- flake-8-builtins
+                    -- https://docs.astral.sh/ruff/rules/#flake8-builtins-a
+                    "A",
+
+                    -- flake8-commas
+                    -- https://docs.astral.sh/ruff/rules/#flake8-commas-com
+                    "COM",
+
+                    -- flake8-comprehensions
+                    -- https://docs.astral.sh/ruff/rules/#flake8-comprehensions-c4
+                    "C4",
+
+                    -- flake8-datetimez
+                    -- https://docs.astral.sh/ruff/rules/#flake8-datetimez-dtz
+                    "DTZ",
+
+                    -- flake8-errmsg
+                    -- https://docs.astral.sh/ruff/rules/#flake8-errmsg-em
+                    "EM",
+
+                    -- flake8-import-conventions
+                    -- https://docs.astral.sh/ruff/rules/#flake8-import-conventions-icn
+                    "ICN",
+
+                    -- flake8-logging
+                    -- https://docs.astral.sh/ruff/rules/#flake8-logging-log
+                    "LOG",
+
+                    -- flake8-logging-format
+                    -- https://docs.astral.sh/ruff/rules/#flake8-logging-format-g
+                    "G",
+
                     -- # "I",
                     "E4",
                     "E7",
                     "E9",
                     "F",
-                    "B",
-                    "COM",
                     "RET",
                     "SIM",
                     "ARG",
