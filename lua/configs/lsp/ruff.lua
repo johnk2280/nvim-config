@@ -131,6 +131,42 @@ return {
                     -- https://docs.astral.sh/ruff/rules/#flake8-logging-format-g
                     "G",
 
+                    -- flake8-no-pep420
+                    -- https://docs.astral.sh/ruff/rules/#flake8-no-pep420-inp
+                    "INP",
+
+                    -- flake8-print
+                    -- https://docs.astral.sh/ruff/rules/#flake8-print-t20
+                    "T20",
+
+                    -- flake8-pytest-style
+                    -- https://docs.astral.sh/ruff/rules/#flake8-pytest-style-pt
+                    "PT",
+
+                    -- flake8-raise
+                    -- https://docs.astral.sh/ruff/rules/#flake8-raise-rse
+                    "RSE",
+
+                    -- flake8-return
+                    -- https://docs.astral.sh/ruff/rules/#flake8-return-ret
+                    "RET",
+
+                    -- flake8-self
+                    -- https://docs.astral.sh/ruff/rules/#flake8-return-ret
+                    "SLF",
+
+                    -- flake8-simplify
+                    -- https://docs.astral.sh/ruff/rules/#flake8-simplify-sim
+                    "SIM",
+
+                    -- flake8-slots
+                    -- https://docs.astral.sh/ruff/rules/#flake8-slots-slot
+                    "SLOTS",
+
+                    -- flake8-todos
+                    -- https://docs.astral.sh/ruff/rules/#flake8-todos-td
+                    "TD",
+
                     -- # "I",
                     "E4",
                     "E7",
@@ -140,7 +176,6 @@ return {
                     "SIM",
                     "ARG",
                     "PTH",
-                    "TD",
                     "RUF",
                     "N",
                 },
