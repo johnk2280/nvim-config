@@ -40,6 +40,10 @@ return {
                 useLibraryCodeForTypes = true,
             },
         },
+        pyright = {
+            -- Using Ruff's import organizer
+            disableOrganizeImports = true,
+        },
     },
     -- on_attach = function(client, bufnr)
     --     vim.api.nvim_buf_create_user_command(bufnr, "LspPyrightOrganizeImports", function()

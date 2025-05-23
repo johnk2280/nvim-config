@@ -3,7 +3,7 @@ require("lint").linters_bu_ft = {
     typescript = { "eslint_d" },
     typescriptreact = { "eslint_d" },
     javascriptreact = { "eslint_d" },
-    python = { "ruff" },
+    -- python = { "ruff" },
 }
 
 vim.api.nvim_create_autocmd({ "BufWritePost", "TextChanged" }, {

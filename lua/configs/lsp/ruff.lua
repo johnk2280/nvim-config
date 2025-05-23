@@ -1,5 +1,6 @@
 -- https://github.com/neovim/nvim-lspconfig/blob/master/lsp/ruff.lua
 -- https://docs.astral.sh/ruff/editors/settings/
+-- https://docs.astral.sh/ruff/editors/setup/#neovim
 
 return {
     cmd = {
@@ -17,6 +18,7 @@ return {
     init_options = {
         configuration = "./pyproject.toml",
         settings = {
+            logLevel = "debug",
             configurationPreference = "filesystemFirst",
             exclude = {
                 ".bzr",
@@ -92,6 +94,10 @@ return {
                     "TD",
                     "RUF",
                     "N",
+                },
+                fixable = {
+                    "COM",
+                    "F401",
                 },
             },
             format = {
