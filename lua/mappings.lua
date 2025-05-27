@@ -8,7 +8,7 @@ local map = vim.keymap.set
 map("n", ";", ":", { desc = "CMD enter command mode" })
 map("i", "jj", "<ESC>")
 
--- Trancparency toggle
+-- Transparency toggle
 map(
     "n",
     "<leader>tt",

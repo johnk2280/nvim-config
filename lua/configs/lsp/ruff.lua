@@ -14,9 +14,9 @@ return {
         ".ruff.toml",
         ".git",
     },
-    -- settings = {},
+    settings = {},
     init_options = {
-        configuration = "./pyproject.toml",
+        -- configuration = "./pyproject.toml",
         settings = {
             logLevel = "debug",
             logFile = "~/.cache/nvim/logs/ruff.log",
@@ -74,21 +74,25 @@ return {
                     "ALL",
                 },
                 ignore = {
+                    "Q",
                     "D",
                     "CPY",
                     "N815",
                     "TD002",
                     "TD003",
                     "RUF003",
+                    "TID252",
                 },
                 fixable = {
                     "COM",
                     "F401",
                     "FA102",
+                    "I",
                 },
             },
             format = {
                 preview = true, -- default null
+                quoteStyle = "single",
             },
         },
     },
