@@ -84,6 +84,7 @@ return {
                 fixable = {
                     "COM",
                     "F401",
+                    "FA102",
                 },
             },
             format = {
