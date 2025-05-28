@@ -38,6 +38,12 @@ return {
                 diagnosticMode = "workspace",
                 typeCheckingMode = "strict",
                 useLibraryCodeForTypes = true,
+                extraPaths = {
+                    "backend",
+                    "root",
+                    "project_root",
+                    "src",
+                },
             },
         },
         pyright = {
