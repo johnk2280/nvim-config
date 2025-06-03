@@ -1,9 +1,18 @@
+require "nvchad.autocmds"
+
+local autocmd = vim.api.nvim_create_autocmd
+local augroup = vim.api.nvim_create_augroup
+
+local ui_group = augroup("johnk2280/ui_group", { clear = true })
+
+-- Setup colorcolumn
 local python_width = "79"
 local ts_width = "120"
-local other_width = "79"
+local other_width = "120"
 
-vim.api.nvim_create_autocmd("FileType", {
+autocmd("FileType", {
     pattern = "*",
+    group = ui_group,
     callback = function()
         if vim.bo.filetype == "python" then
             vim.opt.colorcolumn = python_width
