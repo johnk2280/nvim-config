@@ -16,7 +16,6 @@ local servers = {
 
     rust_analyzer = {},
 
-    isort = {},
     ruff = require "configs.lsp.ruff",
     pyright = require "configs.lsp.pyright",
 }

@@ -42,5 +42,3 @@ autocmd({ "FocusLost", "BufLeave", "InsertLeave" }, {
     -- command = "silent! wa",
     desc = "Auto save when focus is lost, buffer leave, INSERT mode leave",
 })
-
--- Highlight yanked text
