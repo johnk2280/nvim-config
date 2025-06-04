@@ -4,6 +4,7 @@ local autocmd = vim.api.nvim_create_autocmd
 local augroup = vim.api.nvim_create_augroup
 
 local ui_group = augroup("johnk2280/ui_group", { clear = true })
+local acmd_group = augroup("johnk2280/acmd_group", { clear = true })
 
 -- Setup colorcolumn
 local python_width = "79"
@@ -28,3 +29,18 @@ autocmd("FileType", {
         end
     end,
 })
+
+-- Auto save when focus is lost, buffer leave, INSERT mode leave
+autocmd({ "FocusLost", "BufLeave", "InsertLeave" }, {
+    pattern = "*",
+    group = acmd_group,
+    callback = function()
+        if vim.bo.modified and not vim.bo.readonly and vim.fn.expand "%" ~= "" then
+            vim.cmd "write"
+        end
+    end,
+    -- command = "silent! wa",
+    desc = "Auto save when focus is lost, buffer leave, INSERT mode leave",
+})
+
+-- Highlight yanked text
